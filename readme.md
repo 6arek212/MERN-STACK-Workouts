@@ -29,7 +29,7 @@ Simple React Workout's project.
 `BACKEND`
 
 - Nodejs API with EXPRESS
-- Jason Web Token
+- json Web Token
 - Bcrypt password hashing
 - Protected backend routes
 - Mongoose + MongoDB Atlas
