@@ -8,7 +8,7 @@ Simple React Workout's project.
 
 </br>
 
-![](imgs/3.png)
+![](imgs/4.png)
 
 </br>
 
